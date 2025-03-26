@@ -1,2 +1,8 @@
 #忽略idea文件
-/.idea/*
+.idea/*
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/modules.xml
+*.iml
+\*.log
+*.temp
